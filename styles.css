@@ -1,0 +1,112 @@
+body{
+    background-image: url(./puppies\ 1.avif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+header{
+    height: 60px;
+    width: 100%;
+    align-items: center;
+}
+h1{
+    align-self: center;
+    margin-left: 500px;
+    margin-top: 30px;
+}
+nav{
+    list-style-type: none;
+    margin-left: 200px;
+    display: flex;
+    text-decoration: none;
+    width: auto;
+    justify-content: space-evenly;
+}
+nav li{
+    list-style-type: none;
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(10, 185, 33);
+    font-weight: bold;
+    font-size: 20px;
+    width: 80%;
+    justify-content: space-evenly;
+}
+.container{
+    position: relative;
+    width: 700px;
+    height: 350px;
+    top: 100px;
+    left: 300px;
+    border: 1px solid black;
+    background-color: white;
+}
+.pupp1{
+    position: relative;
+    display: flex;
+}
+.img1{
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.matt{
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.container2{
+    position: relative;
+    width: 700px;
+    height: 350px;
+    top: 50px;
+    left: 300px;
+    border: 1px solid black;
+    background-color: white;
+}
+.pupp2{
+    position: relative;
+    display: flex;
+}
+.img2{
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.matt2{
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.container3{
+    position: relative;
+    width: 700px;
+    height: 350px;
+    top: 1000px;
+    left: 300px;
+    border: 1px solid black;
+    background-color: white;
+}
+.pupp3{
+    position: relative;
+    display: flex;
+}
+.img3{
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.matt3{
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+    
+
+
+
